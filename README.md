@@ -19,7 +19,6 @@ Use :
 The result of cypress tests running in terminal : 
 
 ![Alt run cypress in terminal for electron application](cypres_npx_run.bmp)
-cypres_npx_run.bmp
 
 If you want to use cypress browsers , then use :
 
