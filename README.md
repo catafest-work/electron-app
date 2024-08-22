@@ -18,4 +18,5 @@ Use :
 ``` \electron-app>npx cypress run ```
 The result of cypress tests running in terminal : 
 
-
+![Alt run cypress in terminal for electron application](cypres_npx_run.bmp)
+cypres_npx_run.bmp
