@@ -2,6 +2,8 @@
 
 [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/catafest-work/electron-app/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/catafest-work/electron-app/tree/main)
+
 smple application with electron  with simple test with cypress 
 
 use :
