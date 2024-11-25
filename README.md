@@ -1,4 +1,7 @@
-"# electron-app" 
+# electron-app teste with cypress 
+
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
+
 smple application with electron  with simple test with cypress 
 
 use :
